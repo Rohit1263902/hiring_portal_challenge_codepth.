@@ -36,12 +36,9 @@ Welcome to the Bitcoin Saving Fintech App repository! This mobile application is
 
 ## GitHub Repository and Live Link
 
-- **GitHub Repository:** [hiring_portal_challenge_codepth](https://github.com/your-username/hiring_portal_challenge_codepth)
-- **Live Application:** [Your Live Link](your-live-link)
+- **GitHub Repository:** [hiring_portal_challenge_codepth](https://github.com/Rohit1263902/hiring_portal_challenge_codepth./tree/main)
 
-## Setup and Usage
 
-Refer to the [setup instructions](link-to-setup-instructions) and [usage guidelines](link-to-usage-guidelines) in the repository for detailed information on how to set up and use the application.
 
 Feel free to explore the code and contribute to the project!
 
